@@ -1,0 +1,12 @@
+{
+    "models": {
+        "YourFirstModelNameHere": [
+            "your_1st_field_name_here",
+            "your_2nd_field_name_here"
+        ],
+        "YourSecondModelNameHere": [
+            "your_3rd_field_name_here",
+            "your_4th_field_name_here"
+        ]
+    }
+}
