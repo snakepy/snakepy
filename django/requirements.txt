@@ -1,6 +1,6 @@
 aniso8601==6.0.0
 Django==2.2.3
-djangorestframework==3.10.1
+djangorestframework==3.11.2
 graphene==2.1.7
 graphene-django==2.4.0
 graphql-core==2.2.1
