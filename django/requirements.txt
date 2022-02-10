@@ -1,5 +1,5 @@
 aniso8601==6.0.0
-Django==2.2.3
+Django==2.2.27
 djangorestframework==3.10.1
 graphene==2.1.7
 graphene-django==2.4.0
